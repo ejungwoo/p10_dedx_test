@@ -1,0 +1,7 @@
+/run/setCutForAGivenParticle e- 1. mm
+
+/gps/position  0 0 -1300 mm
+/gps/direction 0 0 1
+/gps/particle  proton
+/gps/energy    1000 MeV
+/run/beamOn    1000
